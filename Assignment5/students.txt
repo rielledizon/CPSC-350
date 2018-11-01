@@ -1,0 +1,15 @@
+NULL
+6 Harry CS Junior 1043 3.5
+NULL
+20 Luna English Senior 1223 3.5
+NULL
+66 Draco Science Freshman 1897 3.6
+NULL
+90 Ginny Math Sophomore 1556 3.4
+NULL
+124 Hermione CS Junior 1043 4
+NULL
+235 George Senior Business 1043 4.5
+NULL
+240 Neville Math Sophomore 1556 3.6
+NULL
